@@ -1,0 +1,10 @@
+{
+    "name": "Ochiba",
+    "links": {
+        "Офф. сайт": "http://ochiba.x-maru.org/",
+        "Контакты": "mailto:ochiba@x-maru.org"
+    },
+    "version": "1.2.1",
+    "license": "GNU GPL",
+    "description": "Ochiba - это WEB-галерея изображений, написанная на PHP. Гибрид традиционного фотоальбома и имиджборды."
+}

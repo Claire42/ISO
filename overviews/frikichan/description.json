@@ -1,0 +1,10 @@
+{
+    "name": "Frikichan",
+    "links": {
+        "Sourceforge": "http://sourceforge.net/projects/frikichan/",
+        "E-Mail": "mailto:krusher@frikipedia.es"
+    },
+    "version": "1.2",
+    "license": "GNU AGPL V3",
+    "description": "Бесплатный проект имиджборд 4chan типа, разработанный с использованием PHP и MySQL."
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Northboard",
+    "links": {
+        "ОФФ. сайт": "http://northpole.fi/northboard/",
+        "Github": "https://github.com/Sopsys/NorthBoard",
+        "Контакты": "mailto:admin@northpole.fi"
+    },
+    "version": "0.9.8",
+    "license": "MIT",
+    "description": "Движок Northpole.fi, доступный под лицезией MIT. Код действительно не очень, но эй, по крайней мере, он отлично работает!"
+}

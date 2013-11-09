@@ -1,0 +1,11 @@
+{
+    "name": "Kotoba",
+    "links": {
+        "Googlecode": "http://code.google.com/p/kotoba-ib/",
+        "Ohloh": "http://www.ohloh.net/p/kotoba-ib",
+        "Описание": "http://coyc.net/kotoba.php"
+    },
+    "version": "1.3",
+    "license": "New BSD License",
+    "description": "Котоба — движок для имиджборд, написанный на php."
+}

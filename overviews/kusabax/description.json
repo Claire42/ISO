@@ -1,0 +1,12 @@
+{
+    "name": "Kusaba X",
+    "links": {
+        "Офф. сайт": "http://kusabax.cultnet.net",
+        "Руководство по установке": "http://kusabax.cultnet.net/wiki/installation_guide",
+        "Прочая информация (включая обновление)": "http://kusabax.cultnet.net/wiki/basics",
+        "Доска Поддержки": "http://kusabax.cultnet.net/sup/"
+    },
+    "version": "0.9.3",
+    "license": "GNU GPL",
+    "description": "Форк kusaba. Kusaba X стремится расширить kusaba добавлением функционала, который хотят пользователи, а не только то, что хочет разработчик. Kusaba X так же стремится избавиться от наворотов, добавленных в Kusaba Тревором, а так же переписать большую часть кода, чтобы сделать его более эффективным."
+}

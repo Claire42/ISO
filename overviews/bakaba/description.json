@@ -1,0 +1,10 @@
+{
+    "name": "Bakaba",
+    "links": {
+        "Офф. сайт": "http://2so.ch/",
+        "Github": "https://github.com/fsbkgb/bakaba"
+    },
+    "version": "0.5.2",
+    "description": "Вакабоподобный имиджборд написанный на Rails 3.2 с использованием MongoDB"
+}
+

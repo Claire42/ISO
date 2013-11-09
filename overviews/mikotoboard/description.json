@@ -1,0 +1,8 @@
+{
+    "name": "Mikotoboard",
+    "links": {
+        "Github": "https://github.com/Misaka42/mikotoboard/"
+    },
+    "version": "неизвестно",
+    "description": "Простой Imageboard скрипт написанный на python, с использованием TornadoWeb и Mongo."
+}

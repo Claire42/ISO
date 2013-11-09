@@ -1,0 +1,12 @@
+{
+    "name": "Tinyboard",
+    "links": {
+        "Github": "http://github.com/savetheinternet/Tinyboard/",
+        "Документация": "http://tinyboard.org/docs/",
+        "IRC": "irc://irc.datnode.net/tinyboard",
+        "Помощь": "http://tinyboard.org/#help"
+    },
+    "version": "Development (18-09-2013)",
+    "license": "See LICENSE.md",
+    "description": "Tinyboard - это свободный, легковесный, быстрый, хорошо конфигурируемый и дружественный пользователюимиджборд. Написан на PHP и имеет несколько зависимостей."
+}

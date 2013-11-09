@@ -1,0 +1,9 @@
+{
+    "name": "Wakaba",
+    "links": {
+        "Офф. сайт": "http://wakaba.c3.cx/"
+    },
+    "version": "3.0.9",
+    "description": "Wakaba - imageboard скрипт, построенный по образу Futaba и Futallaby. Написан на Perl."
+}
+

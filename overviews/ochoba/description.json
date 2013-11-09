@@ -1,0 +1,11 @@
+{
+    "name": "Ochoba",
+    "links": {
+        "Офф. сайт": "http://2--ch.ru/",
+        "Руководство по установке": "http://wakaba.ru/ochoba.html",
+        "Скачать": "http://wakaba.ru/engine/ochoba.rar"
+    },
+    "version": "Неизвестно",
+    "license": "",
+    "description": "Вакабоподобная борда. Написана на Perl. Для её работы так же нужны MongoDB, Nginx, Realplexor, Memcached."
+}
