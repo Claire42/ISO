@@ -1,0 +1,9 @@
+{
+    "name": "Ku-Engine",
+    "links": {
+        "Офф. сайт": "http://9ch.ru/",
+        "Github": "https://github.com/"
+    },
+    "version": "14.03.10",
+    "description": "Futaba-based anonymous imageboard php script, without mysql database."
+}
